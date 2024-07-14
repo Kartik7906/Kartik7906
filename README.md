@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kartik Kumar Rasanya</h1>
-<h3 align="center">A Passionate competitive coder and ML developer, diving into the world of challenges and innovation.</h3>
+<h3 align="center">A Passionate competitive coder and MERN developer, diving into the world of challenges and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik7906&label=Profile%20views&color=0e75b6&style=flat" alt="kartik7906" /> </p>
 
